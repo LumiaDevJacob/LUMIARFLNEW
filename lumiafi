@@ -5,4 +5,4 @@
 -- https://discord.gg/smEjXefWut
 -- https://discord.gg/smEjXefWut
 
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/5c121389e28ad04b6012007d4680aaa6b8c5ab62585c95a78befb880f6caf406/download"))()
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/b36cea70433ce67b275d505e43788acc15db45bf182079879988e4700cf97534/download"))()
